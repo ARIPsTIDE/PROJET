@@ -7,6 +7,24 @@ BACK OFFICE EN PRIORITE !
 Et faire une liste de réservation.
 -> Modération 
 -> Clients -> Liste des réservations 
+-> Biens 
+  -> TARIF ! Ergonomie 
+  -> Photos ! Galerie 
+  -> Calendrier des résa, pour faire ça on peut utiliser FULL CALENDAR qui est un FrameWork 
+
+FRONT ! 
+
+-> Template 
+-> Listes des biens + Filtres ->Date D et F, Type, Communes + Rayon, Fourchette Tarif, nb pieces, chambre, superficie
+    -> Un bien -> Réservation  
+        -> Filtrer 
+-> Contact 
+-> Log pour les clients 
+-> Inscription sur une autre page 
+    -> Confirmation  MDP
+        -> MDP oublié 
+  -> Faire un espace "mon compte"
+
 
 EN COURS : 
 
